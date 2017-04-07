@@ -1,0 +1,4 @@
+caniuse.com
+online-convert.com
+convertico.com
+fortawesome.github.io/Font-Awesome/icons
